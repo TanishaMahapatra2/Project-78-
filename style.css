@@ -1,0 +1,28 @@
+#family_members_images {
+    height:470px;
+    width:400px;
+    border-color: rgb(42, 253, 0);
+    border-width: 4px;
+    border-style:ridge;
+    
+  }
+  #button_next{
+    height:37px;
+    width:80px;
+    background-color: rgb(255, 0, 98);
+    color:rgb(0, 255, 242);
+    border-color: rgb(0, 17, 253);
+    border-width: 3.5px;
+    border-style:inset;
+    font-size: 20px;
+  }
+
+  body{
+    background-color: lightcoral;
+  }
+
+  h1{
+    color:darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
